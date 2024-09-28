@@ -9,6 +9,7 @@ Most of our robot code is written in Java. Basic familiarity with Java is essent
 For beginners:
 
 - [Code Academy](https://www.codecademy.com/learn/learn-java) - Online course
+- [Bucky's Java Tutorial](https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28&index=1) - Video series
 - [Head First Java](https://www.rcsdk12.org/cms/lib/NY01001156/Centricity/Domain/4951/Head_First_Java_Second_Edition.pdf) - Book
 
 For experienced programmers new to Java:

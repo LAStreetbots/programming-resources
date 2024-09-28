@@ -9,7 +9,7 @@
 
 ### Introduction
 
-Welcome to the LA Streetbots programming resources documentation repository. Here you will find all the information you need to know about programming in the context of FIRST Robotics Competition and the LA Streetbots team. Still a work in progress.
+Welcome to the LA Streetbots team 4964 programming resources documentation repository. Here you will find all the information you need to know about programming in the context of FIRST Robotics Competition and the LA Streetbots team. Still a work in progress.
 
 Immediate credit to [Highlanders-Training](https://github.com/HighlanderRobotics/Highlanders-Training/tree/main) for the template and structure of this repository. I have re-used the structure and some of the content for this repository. If anything is missing try to find the equivalent content in the Highlanders repository.
 
@@ -27,6 +27,7 @@ Immediate credit to [Highlanders-Training](https://github.com/HighlanderRobotics
 - [**WPI** - WPILib / Intro to the FRC Library](Documentation/Architecture/WPILIB.md)
 - [**REV** - REV Robotics Library](Documentation/Architecture/REVLIB.md)
 - [**CTRE** - CTRE Phoenix Library](Documentation/Architecture/CTRELIB.md)
+
 ### Architecture [WIP]
 
 - [**ARC** - Team Architecture / Command Based](Documentation/Architecture/COMMANDBASE.md)
@@ -50,7 +51,6 @@ YouTube Channel
 
 Nevin Morrison's 2020 FRC Programming Tutorials (Youtube Playlist)
 - [Playlist Link](https://www.youtube.com/watch?v=1794CxHQoQg&list=PLYwJIUT_B-n612Gqmfsq1ukYLa6WKgonc)
-- 
 - Nevin has a bunch of other playlists on his channel that are also useful for learning about Java, C++ etc
 
 ### Useful web directories

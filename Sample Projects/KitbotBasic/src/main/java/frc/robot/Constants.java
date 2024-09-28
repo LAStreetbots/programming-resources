@@ -8,4 +8,7 @@ package frc.robot;
 public class Constants {
     public static final int drivetrainLeftFalconID = 0;
     public static final int drivetrainRightFalconID = 1;
+    // Add new constants for the shooter motors
+    public static final int shooterLeftMotorID = 3;
+    public static final int shooterRightMotorID = 2;
 }
